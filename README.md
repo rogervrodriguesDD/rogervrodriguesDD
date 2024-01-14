@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rogervrodriguesDD
 - 👀 I’m interested in mechanical engineering, control, and data science. 
-- 🌱 I’m currently learning bayesian statistics, deep learning, and reinforcement learning.
 - 📫 How to reach me: send me a message in LinkedIn: https://www.linkedin.com/in/rogervrodrigues
 
 <!---
